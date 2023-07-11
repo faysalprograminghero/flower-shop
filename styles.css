@@ -1,0 +1,36 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.btn-primary{
+    background-color: red;
+    padding: 15px;
+    border: none;
+}
+.nav-container{
+    display: flex;
+    background-color: rgba(233, 150, 122, 0.377);
+    padding: 50px;
+    align-items: center;
+    justify-content: space-around;
+    gap: 30px;
+    height: 450px;
+
+
+}
+.primary-text{
+   padding-top: 20px;
+   padding-bottom: 20px;
+}
+.nav-text{
+    width: 500px;
+    margin-left: 40px;
+}
+.nav-img{
+    width: 500px;
+  
+}
+.red-rose{
+    height: 500px;
+}
