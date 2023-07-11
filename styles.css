@@ -5,8 +5,9 @@
 }
 .btn-primary{
     background-color: red;
-    padding: 15px;
+    padding: 10px;
     border: none;
+    width: 100px;
 }
 .nav-container{
     display: flex;
@@ -33,4 +34,147 @@
 }
 .red-rose{
     height: 500px;
+}
+.section-1{
+   
+    margin: 50px;
+   
+       
+        text-align: center;
+    
+}
+.bunas-part{
+   width: 80%;
+   display: flex;
+
+  
+   
+}
+.bunas-img-1{
+    background-color:rgba(233, 150, 122, 0.377) ;
+  
+  
+   
+}
+.blog-2{
+    height: 500px;
+}
+.bunas-img-2{
+    background-color: rgba(0, 255, 255, 0.199);
+  
+}
+.bunas-img-3{
+    background-color:rgba(42, 82, 70, 0.39);
+   
+}
+.blog-2{
+    height: 100%;
+    border-radius: x x  0px 0px;
+}
+.article-2{
+    display: flex;
+    width: 70%;
+    margin: auto;
+    justify-content: space-around;
+    margin-top: 20px;
+    margin-bottom: 60px;
+    padding: 20px;
+    background-color:  rgba(245, 222, 179, 0.349);
+}.article-3{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: rgba(233, 150, 122, 0.205);
+}
+.off-red{
+    color: red;
+   margin-left: 35%;
+}
+.child-article-3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.btn{
+    padding: 10px;
+    border: none;
+    background-color: red;
+  margin-left: 35%;
+  width: 100px;
+}
+.section-2-text{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.child1{
+    padding: 20px;
+}
+.article-4{
+   width: 80%;
+   margin: auto;
+   display: flex;
+   gap: 20px;
+}
+
+.box-1{
+    width: 200px;
+}
+.box-img-1{
+    width: 200px;
+    height: 200px;
+}
+.box-2{
+    width: 200px;
+}
+.box-img-2{
+    width: 200px;
+    height: 200px;
+}
+.box-3{
+    width: 200px;
+}
+.box-img-3{
+    width: 200px;
+    height: 200px;
+}
+.box-4{
+    width: 200px;
+}
+.box-img-4{
+    width: 200px;
+    height: 200px;
+}
+.article-5{
+   
+   width: 80%;
+   height: 200px;
+   background-image: url("./Flower\ Asset/Rectangle 9.png");
+   
+  text-align: center;
+  padding: 50px;
+ 
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  
+  background-size: cover;
+}
+.first-shopping{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.input-email{
+    border: none;
+    padding: 10px;
+  width: 300px;
+}
+
+.article-6{
+    color: white;
+    background-color: black;
+    text-align: center;
+    
+}.footer-text{
+    color: red;
 }
