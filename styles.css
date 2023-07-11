@@ -2,17 +2,24 @@
 *{
     margin: 0px;
     padding: 0px;
+    font-family: 'lato';
 }
 .btn-primary{
-    background-color: red;
-    padding: 10px;
-    border: none;
-    width: 100px;
+    color: #FFF;
+   border: none;
+   padding: 20px 50px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border-radius: 8px;
+background: #E55473;
 }
+
 .nav-container{
     display: flex;
    
-    padding: 25px;
+    padding: 22px;
     align-items: center;
     justify-content: space-around;
     gap: 30px;
@@ -32,10 +39,12 @@ box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 }
 .nav-img{
     width: 500px;
+   
   
 }
 .red-rose{
     height: 500px;
+    padding: 20px;
 }
 .section-1{
    
@@ -47,18 +56,25 @@ box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 }
 .article-1{
     display: flex;
+   
   
-    width: 80%;
+    width: 88%;
     justify-content: space-around;
    margin: auto;
   
+  
    align-items: center;
    
+   
+}
+.section-child{
+    padding: 20px;
 }
 .text-same{
     text-align: center;
 }
 .box-img-1{
+  
     height: 300px;
     width: 245px;
     border-radius: 300px 300px 0px 0px;
@@ -70,12 +86,14 @@ background: rgba(167, 33, 98, 0.15);
 .box-img-2{
     height: 300px;
     width: 245px;
+  
     border-radius: 300px 300px 0px 0px;
 background: rgba(5, 151, 160, 0.15);
 }
 
    
 .box-img-3{
+  
     height: 300px;
     width: 245px;
     border-radius: 300px 300px 0px 0px;
@@ -85,24 +103,29 @@ background: rgba(5, 151, 160, 0.15);
 }
 
 
-
-.blog-2{
+.blog-1{
     height: 100%;
-    border-radius: x x  0px 0px;
+    margin-left: -20px;
+
 }
 .article-2{
     display: flex;
-    width: 70%;
+    width: 80%;
     margin: auto;
-    justify-content: space-around;
+    justify-content: space-between;
     margin-top: 20px;
     margin-bottom: 60px;
     padding: 20px;
+  
    
     border-radius: 8px;
 background: rgba(39, 39, 39, 0.05);
 
-}.article-3{
+}
+.service-text{
+    margin-left: -15px;
+}
+.article-3{
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -112,7 +135,8 @@ background: rgba(39, 39, 39, 0.05);
     
 }
 .off-red{
-    color: red;
+color: #E55473;
+
    
 }
 .child-article-3{
@@ -120,11 +144,21 @@ background: rgba(39, 39, 39, 0.05);
     margin-bottom: 20px;
 }
 .btn{
-    padding: 10px;
+  
     border: none;
-    background-color: red;
+background: #E55473;
+
   margin-left: 35%;
-  width: 100px;
+  
+  color: #FFF;
+   border: none;
+   padding: 20px 50px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border-radius: 8px;
+background: #E55473;
 }
 .section-2-text{
     text-align: center;
@@ -194,8 +228,9 @@ background: rgba(39, 39, 39, 0.05);
 }
 .input-email{
     border: none;
-    padding: 10px;
+    padding: 20px 70px;
   width: 300px;
+  margin-right: 30px;
 }
 
 .article-6{
