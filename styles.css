@@ -29,6 +29,9 @@ box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 
 
 }
+.nav-text-1{
+    font-size: 60px;
+}
 .primary-text{
    padding-top: 20px;
    padding-bottom: 20px;
@@ -107,6 +110,10 @@ background: rgba(5, 151, 160, 0.15);
     height: 100%;
     margin-left: -20px;
 
+}
+.flower-describtion{
+    color: black;
+    padding: 20%;
 }
 .article-2{
     display: flex;
